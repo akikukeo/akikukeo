@@ -2,8 +2,16 @@
 プログラムポチポチしてます  
 音楽聞くのが好き。
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akikukeo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akikukeo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+### About me
+I am a program poacher.  
+I like to listen to music.
+
+<p align="left"> 
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api?username=akikukeo&show_icons=true&theme=tokyonight" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akikukeo&layout=compact&theme=tokyonight" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=akikukeo&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 akikukeo/akikukeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
