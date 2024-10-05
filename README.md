@@ -1,9 +1,9 @@
 ### 私について
-プログラムポチポチしてます  
+プログラムたまにポチポチしてます  
 音楽聞くのが好き。
 
 ### About me
-I am a program poacher.  
+I'm a programmer sometimes potty mouth.  
 I like to listen to music.
 
 <p align="left"> 
