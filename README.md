@@ -1,7 +1,7 @@
 ### 私について
 プログラムたまにポチポチしてます  
 音楽聞くのが好き。
-@MinecraftSurvivalServer オーナー
+
 
 ### About me
 I'm a programmer sometimes potty mouth.  
