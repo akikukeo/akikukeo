@@ -1,11 +1,4 @@
-<!---### 私について
-プログラムたまにポチポチしてます  
-音楽聞くのが好き。
 
-
-### About me
-I'm a programmer sometimes potty mouth.  
-I like to listen to music.
 
 <p align="left"> 
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=akikukeo&show_icons=true&theme=tokyonight" />
