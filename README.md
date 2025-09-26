@@ -7,7 +7,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=akikukeo&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-[ポートフォリオ](akikukeo.github.io/)
+[ポートフォリオ](https://akikukeo.github.io)
 
 <!---
 akikukeo/akikukeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
